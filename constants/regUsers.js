@@ -1,19 +1,19 @@
 const regUsers = [
-    { "username": "bunty", "password": "hello" },
-    { "username": "irfaan", "password": "hello" },
-    { "username": "abid", "password": "hello" },
-    { "username": "joel", "password": "hello" },
-    { "username": "aravi", "password": "hello" },
-    { "username": "rahul", "password": "hello" },
-    { "username": "ravi", "password": "hello" },
-    { "username": "sahil", "password": "hello" },
-    { "username": "akash", "password": "hello" },
-    { "username": "vivek", "password": "hello" },
-    { "username": "aman", "password": "hello" },
-    { "username": "rohan", "password": "hello" },
-    { "username": "vicky", "password": "hello" },
-    { "username": "sonu", "password": "hello" },
-    { "username": "karan", "password": "hello" }
+    { "id": 1, "username": "bunty", "password": "hello" },
+    { "id": 2, "username": "irfaan", "password": "hello" },
+    { "id": 3, "username": "abid", "password": "hello" },
+    { "id": 4, "username": "joel", "password": "hello" },
+    { "id": 5, "username": "aravi", "password": "hello" },
+    { "id": 6, "username": "rahul", "password": "hello" },
+    { "id": 7, "username": "ravi", "password": "hello" },
+    { "id": 8, "username": "sahil", "password": "hello" },
+    { "id": 9, "username": "akash", "password": "hello" },
+    { "id": 10, "username": "vivek", "password": "hello" },
+    { "id": 11, "username": "aman", "password": "hello" },
+    { "id": 12, "username": "rohan", "password": "hello" },
+    { "id": 13, "username": "vicky", "password": "hello" },
+    { "id": 14, "username": "sonu", "password": "hello" },
+    { "id": 15, "username": "karan", "password": "hello" }
 ]
 
 export default regUsers
